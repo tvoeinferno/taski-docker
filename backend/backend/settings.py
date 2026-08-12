@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'taskinferno.run.place', '51.250.45.31']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'taskinferno.duckdns.org', '51.250.45.31']
 
 
 # Application definition
